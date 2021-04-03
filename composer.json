@@ -35,7 +35,7 @@
         "drupal/gin": "^3.0",
         "drupal/gin_toolbar": "^1.0",
         "drupal/webform": "^6.0",
-        "dxpr/dxpr_builder": "^1.0"
+        "dxpr/dxpr_builder": "1.4.1-beta2"
     },
     "extra": {
         "drupal-scaffold": {
